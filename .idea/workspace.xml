@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="612fd80c-d256-4b8b-8d1f-dcabb92d0fe4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/code2040task2.py" afterPath="$PROJECT_DIR$/code2040task2.py" />
     </list>
     <ignored path="Code2040Tasks.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -400,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1478028676296</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="task #2 complete">
+      <created>1478031075428</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1478031075428</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -441,7 +447,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task #1 completed" />
     <MESSAGE value="task #2 initiated" />
-    <option name="LAST_COMMIT_MESSAGE" value="task #2 initiated" />
+    <MESSAGE value="task #2 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="task #2 complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
